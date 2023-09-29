@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;in.ganesh.config.ConfigClass.java&apos; to &apos;SwaggerConfig.java&apos;&#x0D;&#x0A;- Original project: &apos;28-SpringB-RestApi-Swagger-1&apos;&#x0D;&#x0A;- Original element: &apos;in.ganesh.config.ConfigClass.java&apos;&#x0D;&#x0A;- Renamed element: &apos;in.ganesh.config.SwaggerConfig.java&apos;" description="Rename compilation unit &apos;ConfigClass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ganesh.config{ConfigClass.java" name="SwaggerConfig.java" references="false" stamp="1694348713687" version="1.0"/>
+</session>

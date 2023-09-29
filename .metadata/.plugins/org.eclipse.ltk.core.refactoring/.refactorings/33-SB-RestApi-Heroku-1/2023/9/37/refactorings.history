@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;in.ganesh.wellcomeController&apos; to &apos;in.ganesh.controller&apos;&#x0D;&#x0A;- Original project: &apos;33-SB-RestApi-Heroku-1&apos;&#x0D;&#x0A;- Original element: &apos;33-SB-RestApi-Heroku-1/src/main/java/in.ganesh.wellcomeController&apos;&#x0D;&#x0A;- Renamed element: &apos;33-SB-RestApi-Heroku-1/src/main/java/in.ganesh.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;in.ganesh.wellcomeController&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ganesh.wellcomeController" name="in.ganesh.controller" qualified="false" references="true" stamp="1694510981943" textual="true" version="1.0"/>
+</session>

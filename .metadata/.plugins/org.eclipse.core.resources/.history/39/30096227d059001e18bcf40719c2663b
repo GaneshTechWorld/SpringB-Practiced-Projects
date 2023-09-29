@@ -1,0 +1,21 @@
+package in.ganesh;
+
+import org.springframework.batch.item.ItemProcessor;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+public class PersonItemProcessor implements ItemProcessor<Person, Person>
+{
+	
+	@Override
+	public Person process(Person item) throws Exception 
+	 {
+		   String firstName = item.getFName();
+		   String lastName = item.getLName();
+		   
+		  Person tPerson = new  Person(firstName, lastName);
+		  
+		return    tPerson;
+	}
+
+}

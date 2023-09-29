@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="57-SBMS-RESTAPI-Flux">
+        <property name="context-root" value="57-SBMS-RESTAPI-Flux"/>
+        <property name="java-output-path" value="/57-SBMS-RESTAPI-Flux/target/classes"/>
+    </wb-module>
+</project-modules>

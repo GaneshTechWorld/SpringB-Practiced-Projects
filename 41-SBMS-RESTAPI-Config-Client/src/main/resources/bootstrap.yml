@@ -1,0 +1,12 @@
+
+spring:
+  application:
+    name: wellcome
+    
+    
+  cloud:
+    config:
+      uri: http://localhost:8081
+      
+      
+ 

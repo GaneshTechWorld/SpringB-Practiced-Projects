@@ -1,0 +1,5 @@
+package in.ganesh.binding;
+
+public class Employee {
+
+}

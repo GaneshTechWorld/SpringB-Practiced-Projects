@@ -1,0 +1,15 @@
+package in.ganesh.rest;
+import in.ganesh.binding.Book;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class RController
+{
+
+	public ResponseEntity<Mono<Book>> getBookInfo()
+	{
+		Book b1 = new Book("","");
+	}
+	
+}

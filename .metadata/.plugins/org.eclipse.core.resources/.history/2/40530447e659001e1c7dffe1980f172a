@@ -1,0 +1,11 @@
+package in.ganesh.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import in.ganesh.repo.BookRepository;
+
+public class BookController 
+{
+    @Autowired
+    private BookRepository repo;
+}

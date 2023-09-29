@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.ganesh.service.Service&apos; to &apos;EmployeeService&apos;&#x0D;&#x0A;- Original project: &apos;12-SpringBoot-DataJPA-Blob&apos;&#x0D;&#x0A;- Original element: &apos;in.ganesh.service.Service&apos;&#x0D;&#x0A;- Renamed element: &apos;in.ganesh.service.EmployeeService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Service&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ganesh.service{Service.java[Service" matchStrategy="1" name="EmployeeService" qualified="false" references="true" similarDeclarations="true" stamp="1693909855698" textual="true" version="1.0"/>
+</session>

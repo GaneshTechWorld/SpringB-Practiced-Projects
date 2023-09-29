@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;in.ganesh.twowheeler.Pulsar.java&apos; to &apos;TwoWheeler.java&apos;&#x0D;&#x0A;- Original project: &apos;05-SpringBoot-Appln&apos;&#x0D;&#x0A;- Original element: &apos;in.ganesh.twowheeler.Pulsar.java&apos;&#x0D;&#x0A;- Renamed element: &apos;in.ganesh.twowheeler.TwoWheeler.java&apos;" description="Rename compilation unit &apos;Pulsar.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ganesh.twowheeler{Pulsar.java" name="TwoWheeler.java" references="false" stamp="1693628508050" version="1.0"/>
+</session>

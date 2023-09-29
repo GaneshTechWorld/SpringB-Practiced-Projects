@@ -1,0 +1,11 @@
+{
+	"id": "ABC1234C",
+	"name": "MachineL",
+	"pages": 456,
+	"info": {
+		"autName": "Ganesh Chaudhary",
+		"autEducation": "M.Tech Comp",
+		"autAge": 78,
+		"autAddress": "Kanpur"
+	}
+}

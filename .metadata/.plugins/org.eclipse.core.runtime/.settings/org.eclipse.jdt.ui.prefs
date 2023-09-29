@@ -1,0 +1,13 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.hibernate.mapping.IndexedCollection"><rhs name\="org.hibernate.mapping.List"/></lhs><lhs name\="org.hibernate.mapping.Collection"><rhs name\="org.hibernate.mapping.List"/></lhs><lhs name\="org.hibernate.mapping.Fetchable"><rhs name\="org.hibernate.mapping.List"/></lhs><lhs name\="org.hibernate.mapping.Value"><rhs name\="org.hibernate.mapping.List"/></lhs><lhs name\="org.hibernate.mapping.Filterable"><rhs name\="org.hibernate.mapping.List"/></lhs><lhs name\="org.hibernate.mapping.List"><rhs name\="org.hibernate.mapping.List"/></lhs><lhs name\="java.lang.Enum"><rhs name\="jakarta.persistence.GenerationType"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="org.springframework.http.HttpMethod"/><rhs name\="org.springframework.batch.core.BatchStatus"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="jakarta.persistence.GenerationType"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="org.springframework.http.HttpMethod"/><rhs name\="org.springframework.batch.core.BatchStatus"/></lhs><lhs name\="in.ganesh.entity.Person"><rhs name\="in.ganesh.entity.Person"/></lhs><lhs name\="org.springframework.http.HttpStatusCode"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.plugin.metadata.SimplePluginMetadata"><rhs name\="springfox.documentation.spi.DocumentationType"/></lhs><lhs name\="org.springframework.plugin.metadata.PluginMetadata"><rhs name\="springfox.documentation.spi.DocumentationType"/></lhs><lhs name\="springfox.documentation.spi.DocumentationType"><rhs name\="springfox.documentation.spi.DocumentationType"/></lhs><lhs name\="org.springframework.security.crypto.password.PasswordEncoder"><rhs name\="org.springframework.security.crypto.password.NoOpPasswordEncoder"/></lhs><lhs name\="java.time.temporal.TemporalAmount"><rhs name\="java.time.Duration"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

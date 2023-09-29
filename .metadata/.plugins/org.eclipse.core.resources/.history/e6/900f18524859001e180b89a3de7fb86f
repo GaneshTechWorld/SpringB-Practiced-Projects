@@ -1,0 +1,8 @@
+package in.ganesh;
+
+import org.springframework.batch.item.ItemProcessor;
+
+public class PersonItemProcessor implements ItemProcessor<Person, Person>
+{
+
+}

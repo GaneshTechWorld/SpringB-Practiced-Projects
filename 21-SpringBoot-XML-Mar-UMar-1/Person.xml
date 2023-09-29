@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Person>
+	<address>Muktaianagar</address>
+	<age>23</age>
+	<empinfo>
+		<clocation>Pune</clocation>
+		<edu>B.Tech</edu>
+		<empid>123ER#</empid>
+	</empinfo>
+	<name>Ganesh Chaudhary</name>
+</Person>

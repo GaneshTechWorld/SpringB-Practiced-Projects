@@ -1,0 +1,21 @@
+package in.ganesh.rest;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+import in.ganesh.binding.Book;
+import reactor.core.publisher.Mono;
+
+@RestController
+public class RController
+{
+
+	@GetMapping("/book")
+	public ResponseEntity<Mono<Book>> getBookInfo()
+	{
+		Book b1 = new Book("ABC123Z","Maha-Bharat");
+		Mono<Book> customerMono = Mono.just(b1);
+		return new ResponseEntity<Mono<Book>>(customerMono, HttpStatus.OK);
+	}
+	
+}

@@ -1,0 +1,10 @@
+package in.ganesh.wlcm;
+
+
+public class Wellcome
+{
+    public String getMessage()
+    {
+    	return "Wellcome class method..........";
+    }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.ganesh.controller.BookCOntroller&apos; to &apos;BookController&apos;&#x0D;&#x0A;- Original project: &apos;26-SpringBoot-REST-API-MO&apos;&#x0D;&#x0A;- Original element: &apos;in.ganesh.controller.BookCOntroller&apos;&#x0D;&#x0A;- Renamed element: &apos;in.ganesh.controller.BookController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BookCOntroller&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ganesh.controller{BookCOntroller.java[BookCOntroller" matchStrategy="1" name="BookController" qualified="false" references="true" similarDeclarations="true" stamp="1694276419909" textual="true" version="1.0"/>
+</session>
